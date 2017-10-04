@@ -1,1 +1,28 @@
-# DAMC
+Data analysis and model classification
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
